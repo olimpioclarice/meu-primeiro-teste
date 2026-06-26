@@ -1,4 +1,4 @@
-# 🧪 Meu Primeiro Teste
+# 💻 Meu Primeiro Teste
 
 Projeto simples em HTML criado para aprender a estrutura básica de uma página web.
 
